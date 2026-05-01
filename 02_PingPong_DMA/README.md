@@ -20,4 +20,4 @@ NUCLEO-G070RB （板载LED LD4 接 PA5，ST-Link虚拟串口 USART2）
 待发布
 
 ## 快速开始
-用 Keil v5 打开项目根目录的 `.uvprojx` 文件，编译后通过 ST-Link 烧录到 NUCLEO-G070RB。
+用 Keil v5 打开项目目录"src\Target_2\STM32CubeMX\MDK-ARM\"的 `STM32CubeMX.uvprojx` 文件，编译后通过 ST-Link 烧录到 NUCLEO-G070RB。
