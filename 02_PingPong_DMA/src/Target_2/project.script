@@ -1,0 +1,5 @@
+load STM32G070RBTx
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+project path "E:\STM32\pencil\STM32CubeMX\Target_1"
+SetCopyLibrary "copy only"
