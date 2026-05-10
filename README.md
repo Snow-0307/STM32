@@ -10,3 +10,4 @@
 | 01 | 非阻塞前后台系统 | 状态机、时间戳、GPIO中断、UART中断 | [B站视频](https://www.bilibili.com/video/BV1trRNBwEM2/) |
 | 02 | DMA乒乓缓冲串口通信 | 乒乓缓存、DMA接收、DMA发送、双缓冲 | [B站视频](https://www.bilibili.com/video/BV1mDRuBrEF3) |
 | 03 | 状态机控制步进电机 | 状态机、定时器脉冲、步进电机 | [B站视频](https://www.bilibili.com/video/BV1zXRvBKEYz) |
+| 04 | 三轴写字机控制 | 多电机协同、状态机、串口指令 | [B站视频](https://www.bilibili.com/video/BV1S65L6wEVU) |
