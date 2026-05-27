@@ -1,0 +1,46 @@
+# Keil build outputs
+MDK-ARM/**/Listings/
+MDK-ARM/**/Objects/
+*.axf
+*.build_log.htm
+*.crf
+*.d
+*.dep
+*.hex
+*.htm
+*.lnp
+*.lst
+*.map
+*.o
+*.sct
+*.scvd
+*.tra
+*.uvguix.*
+JLinkLog.txt
+
+# CubeMX generated HAL drivers (download separately)
+Drivers/CMSIS/
+Drivers/STM32G0xx_HAL_Driver/
+
+# Python
+__pycache__/
+*.pyc
+*.spec
+build/
+dist/
+*.egg-info/
+
+# Hershey data repo
+上位机/hershey_data/.git/
+上位机/hershey_data/dist/hershey/
+上位机/hershey_data/hershey_en/
+上位机/hershey_data/__pycache__/
+
+# Temp/backup
+上位机/可视化对比.png
+上位机/script/
+上位机/脚本/diagnostic_test.py
+
+# OS
+Thumbs.db
+.DS_Store
