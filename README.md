@@ -12,6 +12,7 @@
 |03|状态机控制步进电机|状态机、定时器脉冲、步进电机|[B站视频](https://www.bilibili.com/video/BV1zXRvBKEYz)|
 |04|三轴写字机控制|多电机协同、状态机、串口指令|[B站视频](https://www.bilibili.com/video/BV1S65L6wEVU)|
 |05| 通用绘图系统 | Bresenham插补、串口协议、指令队列 | [B站视频](https://www.bilibili.com/video/BV1Lw5v6fErS) |
+| 06 | CoreXY写字机 | Python上位机、Bresenham、CoreXY、字体系统 | [B站视频](https://www.bilibili.com/video/BV1hdG161EFK) |
 
 ## 每个详细项目里有详细功能解析,请点击查看
 
